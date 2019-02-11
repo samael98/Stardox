@@ -19,7 +19,7 @@
 </p>
 
 ## About [Stardox](https://github.com/0xprateek/stardox)
-Stardox is an advanced github stargazers information gathering tool. It scraps Github for information and display them in list tree view.It can be used for collecting information of your's/someones repository stargazers details.The program is basically written is python.
+Stardox is an advanced github stargazers information gathering tool. It scraps Github for information and display them in list tree view.It can be used for collecting information of your's/someones repository stargazers details.The program is basically written in python.
 
 ##### What data it fetchs :
 
